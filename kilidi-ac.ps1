@@ -5,6 +5,7 @@ $files = @(
   "Yamayi-Kur.ps1",
   "Yamayi-Yonetici-Olarak-Kur.bat",
   "Localization_TR_starter.xml",
+  "README.md",
   "README_TR.md"
 )
 
